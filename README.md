@@ -1,0 +1,1 @@
+Service to implement Spring Admin Client
